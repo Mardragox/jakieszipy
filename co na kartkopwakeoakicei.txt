@@ -1,0 +1,12 @@
+2 tajue origu distc nicbe bed a w ranacg testiw hedbistjiwtcg\1, napisanie i uruchomienie testow (nie muszą działać)
+2. napisanie prostej metoidy
+
+na 6piszemy metode elegancko i szybko
+
+jak tylko testy według narzuconego scenariusza bez metody to 3
+jak tylko metoda to 3
+jka i metody i tresty to 5
+
+przy testach:
+znaczące nazwy metod testującuch (wiadomo że testująca (nazwa test) i nazwe jaką metode testujemy i w jakiej sytuacji
+
